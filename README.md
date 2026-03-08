@@ -77,6 +77,8 @@ This approach transforms errors into learning opportunities, fostering long-term
 ### 🤖 AI Mentor Interface
 *Provides explanations, debugging guidance, and concept clarifications*
 
+![image](https://github.com/MonaliPawar26/Buildbuddy-AI/blob/ee897860b840aa99cec01e5c47fb9022b65ba9a3/snapshot3.png)
+
 ---
 
 ## ⚙️ System Workflow
