@@ -72,6 +72,8 @@ This approach transforms errors into learning opportunities, fostering long-term
 ### 🧠 Code Analysis Interface
 *Displays insights into code issues and suggestions*
 
+![image](https://github.com/MonaliPawar26/Buildbuddy-AI/blob/7d0364c23f2b69bf7070514484d1d448c725eab6/snapshot2.png)
+
 ### 🤖 AI Mentor Interface
 *Provides explanations, debugging guidance, and concept clarifications*
 
